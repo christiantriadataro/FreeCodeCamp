@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b32ea20e-24b6-4e66-9a61-4a3516cd390b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Responsive Web Design/Build a Survey Form/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Responsive Web Design/Build a Survey Form/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Responsive Web Design/Learn the CSS Box Model by Buliding a Rothko Painting/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Responsive Web Design/Learn the CSS Box Model by Buliding a Rothko Painting/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Responsive Web Design/Learn HTML Forms by Building a Registration Form/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Responsive Web Design/Learn HTML Forms by Building a Registration Form/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +77,7 @@
       <workItem from="1710872158811" duration="996000" />
       <workItem from="1710873645309" duration="7633000" />
       <workItem from="1710879837846" duration="7243000" />
+      <workItem from="1710887119486" duration="1246000" />
     </task>
     <servers />
   </component>
