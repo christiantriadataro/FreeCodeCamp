@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b32ea20e-24b6-4e66-9a61-4a3516cd390b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Responsive Web Design/Learn Typography by Building a Nutrition Label/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Responsive Web Design/Learn Typography by Building a Nutrition Label/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Responsive Web Design/Learn Accessibility by Building a Quiz/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Responsive Web Design/Learn Accessibility by Building a Quiz/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,6 +80,9 @@
       <workItem from="1710887119486" duration="1246000" />
       <workItem from="1710944047323" duration="2266000" />
       <workItem from="1710946334654" duration="8863000" />
+      <workItem from="1711352963629" duration="742000" />
+      <workItem from="1711354017177" duration="4353000" />
+      <workItem from="1711395015632" duration="8282000" />
     </task>
     <servers />
   </component>
