@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b32ea20e-24b6-4e66-9a61-4a3516cd390b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Responsive Web Design/Learn More About CSS Pseudo Selectors by Building a Balance Sheet/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Responsive Web Design/Learn More About CSS Pseudo Selectors by Building a Balance Sheet/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Responsive Web Design/Learn Intermediate CSS by Building a Cat Painting/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Responsive Web Design/Learn Intermediate CSS by Building a Cat Painting/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,6 +84,7 @@
       <workItem from="1711354017177" duration="4353000" />
       <workItem from="1711395015632" duration="8282000" />
       <workItem from="1711437756904" duration="7214000" />
+      <workItem from="1711445569528" duration="9043000" />
     </task>
     <servers />
   </component>
